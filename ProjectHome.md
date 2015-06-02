@@ -1,0 +1,1 @@
+The goal of this project is to make a Hexic emulator with the ability to help one 'solve' boards.
